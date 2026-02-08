@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/SAKTHIMARAN-M/SAKTHIMARAN-M/main/github-metrics.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/github-metrics.svg" width="90%" />
 
 </div>
 
