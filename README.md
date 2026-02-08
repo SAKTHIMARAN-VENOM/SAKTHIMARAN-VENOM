@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=SAKTHIMARAN%20M&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
 </div>
-
+<div align="center">
 
 ### 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=python,cpp,git,fastapi,mysql,postman,arduino" />
