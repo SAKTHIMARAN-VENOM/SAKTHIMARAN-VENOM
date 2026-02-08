@@ -1,18 +1,56 @@
-WELCOME LADIES & GENTLEMEN,
-I AM SAKTHIMARAN
-- 🔭 I’m currently working on SAFETY SENSE
-- 🌱 I’m currently learning Machine Learning, Deep Learning
-- 🤔 I’m looking for help with DL
-- 💬 Ask me about python,c++
-- 📫 How to reach me: sakthimaran7102006@gmail.com
-- <h1 align="center">Hi 👋, I'm SAKTHIMARAN</h1>
-<h3 align="center">A RARE SPECIES FROM INDIA</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+SAKTHIMARAN+M+👋;Python+%7C+C%2B%2B+Developer;Data+%26+Backend+Enthusiast;Learning+ML+%26+Cloud+🚀" />
+
+---
+
+### 🧑‍💻 About Me
+
+🎯 Passionate about **Deep Learning, Backend Development, Data Analysis, and Embedded Systems**  
+📊 Love working with **data, APIs, and visualizations**  
+🌱 Currently learning **Machine Learning,Deep learning Cloud & DevOps**  
+⚡ Curious, consistent, and always building
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Languages & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔹 Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,postman" />
+</p>
 
+### 🔹 Data & Visualization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <br/>
+  <sub>Pandas • NumPy • Matplotlib • Seaborn • Plotly</sub>
+</p>
 
+### 🔹 Embedded / Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+---
+
+## 🚀 Learning Next
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,linux,opencv,docker,postgres" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAKTHIMARAN-M/SAKTHIMARAN-M/main/github-metrics.svg" />
+</p>
