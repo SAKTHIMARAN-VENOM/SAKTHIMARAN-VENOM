@@ -16,13 +16,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/dist/pacman-contribution-graph-dark.svg" />
+    srcset="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/dist/pacman-contribution-graph.svg" />
+    srcset="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/pacman-contribution-graph.svg" />
   <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/dist/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/pacman-contribution-graph.svg"
     width="90%" />
 </picture>
+
 
 
 </div>
