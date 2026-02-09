@@ -7,7 +7,7 @@
 </p>
 
 
-### 🛠 Tech Stack
+### 🛠 SKILLS
 <img src="https://skillicons.dev/icons?i=python,cpp,git,fastapi,mysql,postman,arduino" />
 <br/>
 <sub>Pandas · NumPy · Matplotlib · Seaborn · Plotly</sub>
