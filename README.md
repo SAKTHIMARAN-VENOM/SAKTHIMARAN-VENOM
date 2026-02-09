@@ -24,6 +24,6 @@
     width="90%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANKYOU%20M&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANKYOU%20&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
 </div>
