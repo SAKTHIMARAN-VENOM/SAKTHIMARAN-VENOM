@@ -18,15 +18,10 @@
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,linux,opencv,docker,postgres,raspberrypi" />
 
 ---
-
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/pacman-contribution-graph.svg" />
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/main/pacman-contribution-graph.svg"
-    width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SAKTHIMARAN-VENOM]/[SAKTHIMARAN-VENOM]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SAKTHIMARAN-VENOM]/[SAKTHIMARAN-VENOM]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[SAKTHIMARAN-VENOM]/[SAKTHIMARAN-VENOM]/output/pacman-contribution-graph.svg">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANKYOU%20&fontColor=ffffff&fontSize=40&animation=fadeIn" />
