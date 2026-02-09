@@ -23,6 +23,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SAKTHIMARAN-VENOM]/[SAKTHIMARAN-VENOM]/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[SAKTHIMARAN-VENOM]/[SAKTHIMARAN-VENOM]/output/pacman-contribution-graph.svg">
 </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAKTHIMARAN-VENOM/SAKTHIMARAN-VENOM/output/pacman-contribution-graph.svg">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=THANKYOU%20&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
