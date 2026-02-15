@@ -20,9 +20,9 @@ jobs:
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          background_color: "#0d0221"   # Deep hacker purple-black
-          pacman_color: "#c084fc"       # Neon purple pacman
+          github_user_name: SAKTHIMARAN-VENOM
+          background_color: "#0d1117"
+          pacman_color: "#a855f7"
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
