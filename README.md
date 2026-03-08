@@ -1,8 +1,10 @@
-# Sakthimaran M
+# Hi I'm Sakthimaran M
 
 Computer Science undergraduate passionate about building practical systems that combine Machine Learning, Backend Development, and IoT.
 
 I enjoy working on real-world problems and understanding how systems function end-to-end — from hardware integration to model deployment.
+
+Fun Fact: I love "CP",Comptetive programming 😂
 
 ---
 
