@@ -51,7 +51,7 @@ Arrays, Strings, Two Pointers, Sliding Window, Stack, Binary Search
 
 ## 📌 Highlight Projects
 
-### 🏭 AI-Based Digital Twin for Motors & HVAC Systems
+### 🏭 SAFETY SENSE
 Low-cost IoT-based predictive maintenance system using real-time sensor data and Isolation Forest for anomaly detection.
 
 ### ⚙️ End-to-End Backend Project
