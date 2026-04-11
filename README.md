@@ -147,7 +147,10 @@ Fun Fact: I love Competitive Programming 😂
 - Healthcare-focused tracking and monitoring solution  
 
 ### 🏠 Roomify
-- Room/space management and optimization system  
+- Roomify is an AI-powered interior design platform that transforms room images into redesigned spaces using computer vision and generative models.
+- It integrates YOLO-based object detection, SAM segmentation, and Stable Diffusion for realistic interior visualization.
+- The system also features an AI-assisted 2D floor planner with both manual editing and text-to-layout generation using a local LLM.
+- Built with React, FastAPI, and Ollama, it uses a hybrid architecture combining cloud-based AI processing with local intelligent layout control. 
 
 ---
 
