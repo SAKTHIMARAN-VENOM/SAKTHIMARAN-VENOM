@@ -4,7 +4,7 @@ Building intelligent systems at the intersection of ML, Backend Engineering, and
 
 Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
 
-Fun Fact: I love "CP", Competitive Programming 😂
+Fun Fact: I love Competitive Programming 😂
 
 ---
 
@@ -38,7 +38,9 @@ Fun Fact: I love "CP", Competitive Programming 😂
 
 ---
 
-## 🧰 Technical Skills
+## 💼 Technical Skills
+
+---
 
 ### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
@@ -57,7 +59,7 @@ Fun Fact: I love "CP", Competitive Programming 😂
 
 ### 🧩 LLM & Prompt Engineering
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blue)
-![LLM](https://img.shields.io/badge/LLM-Workflows-green)
+![LLM Workflows](https://img.shields.io/badge/LLM-Workflows-green)
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-Learning-orange)
 
 ---
@@ -143,17 +145,21 @@ Fun Fact: I love "CP", Competitive Programming 😂
 
 ## 🏆 Hackathon Projects
 
-### 💊 CuraTrack
-- CuraTrack is a full-stack AI-powered system that connects patients, caregivers, hospitals, and doctors into one unified healthcare ecosystem.
-- It enables smart prescription parsing, real-time medication reminders, and caregiver monitoring for continuous care.
-- The platform improves hospital workflows, queue management, and simplifies insurance processes.
-- Built with a privacy-first approach aligned with the Digital Personal Data Protection Act (India), ensuring secure and scalable healthcare delivery.
-
 ### 🏠 Roomify
-- Roomify is an AI-powered interior design platform that transforms room images into redesigned spaces using computer vision and generative models.
-- It integrates YOLO-based object detection, SAM segmentation, and Stable Diffusion for realistic interior visualization.
-- The system also features an AI-assisted 2D floor planner with both manual editing and text-to-layout generation using a local LLM.
-- Built with React, FastAPI, and Ollama, it uses a hybrid architecture combining cloud-based AI processing with local intelligent layout control. 
+
+AI-powered interior design platform that transforms room images into redesigned spaces using computer vision and generative models.  
+It integrates YOLO-based object detection, SAM segmentation, and Stable Diffusion for realistic interior visualization.  
+Includes an AI-assisted 2D floor planner with manual editing and text-to-layout generation using a local LLM.  
+Built with React, FastAPI, and Ollama using a hybrid architecture (cloud AI + local control).
+
+---
+
+### 💊 CuraTrack
+
+Full-stack AI-powered healthcare ecosystem connecting patients, caregivers, hospitals, and doctors.  
+Enables smart prescription parsing, real-time medication reminders, and caregiver monitoring.  
+Improves hospital workflows, queue management, and simplifies insurance processes.  
+Built with a privacy-first approach aligned with India’s Digital Personal Data Protection Act.
 
 ---
 
@@ -176,6 +182,6 @@ sakthimaran7102006@gmail.com
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## 🟡 Contribution Graph
 
-![pacman graph](https://github.com/abozanona/pacman-contribution-graph/raw/master/dist/pacman.svg)
+![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
