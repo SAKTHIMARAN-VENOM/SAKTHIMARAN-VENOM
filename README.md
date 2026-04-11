@@ -4,7 +4,7 @@ Building intelligent systems at the intersection of ML, Backend Engineering, and
 
 Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
 
-Fun Fact: I love Competitive Programming 😂
+Fun Fact: I love "CP", Competitive Programming 😂
 
 ---
 
@@ -144,7 +144,10 @@ Fun Fact: I love Competitive Programming 😂
 ## 🏆 Hackathon Projects
 
 ### 💊 CuraTrack
-- Healthcare-focused tracking and monitoring solution  
+- CuraTrack is a full-stack AI-powered system that connects patients, caregivers, hospitals, and doctors into one unified healthcare ecosystem.
+- It enables smart prescription parsing, real-time medication reminders, and caregiver monitoring for continuous care.
+- The platform improves hospital workflows, queue management, and simplifies insurance processes.
+- Built with a privacy-first approach aligned with the Digital Personal Data Protection Act (India), ensuring secure and scalable healthcare delivery.
 
 ### 🏠 Roomify
 - Roomify is an AI-powered interior design platform that transforms room images into redesigned spaces using computer vision and generative models.
