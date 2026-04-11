@@ -1,8 +1,8 @@
 # Hi 👋 I'm Sakthimaran M
 
-Building intelligent systems at the intersection of ML, IoT, and Backend Engineering.
+Building intelligent systems at the intersection of ML, Backend Engineering, and real-world systems.
 
-Computer Science undergraduate passionate about solving real-world problems by combining Machine Learning, Backend Development, and Embedded Systems.
+Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
 
 Fun Fact: I love Competitive Programming 😂
 
@@ -10,18 +10,18 @@ Fun Fact: I love Competitive Programming 😂
 
 ## 🚀 Currently Working On
 
-- AI-based Digital Twin for predictive maintenance  
-- Backend development using FastAPI  
-- Strengthening Data Structures & Algorithms in Python  
+- 🏭 SAFETY SENSE — Machinery Health Monitoring System (IoT + ML)
+- 🎓 University Management System (DBMS Project)
+- 📊 Strengthening Data Structures & Algorithms (DSA + CP)
 
 ---
 
 ## 🧠 System Design & Architecture
 
-- Designed real-time IoT → Backend → ML pipelines  
-- Understanding end-to-end data flow: Edge → API → Model → Dashboard  
-- Experience building stateless backend services using FastAPI  
-- Exploring scalable architectures and async processing  
+- Designed real-time pipelines: Sensor/Data → API → ML Model → Dashboard  
+- Understanding of end-to-end system flow and backend integration  
+- Experience building REST APIs using FastAPI  
+- Exploring scalable backend systems and async processing  
 
 ---
 
@@ -29,9 +29,9 @@ Fun Fact: I love Competitive Programming 😂
 
 ### 📡 Hybrid LiFi–WiFi Intelligent Network Optimization
 
-- Working on intelligent handover using Q-learning  
-- Exploring QoS-aware decision making (latency, throughput, delay)  
-- Designing hybrid approach combining RL + heuristic methods for delay-sensitive users  
+- Intelligent handover using Q-learning  
+- QoS-aware optimization (latency, delay, throughput)  
+- Hybrid decision system (RL + heuristic for delay-sensitive users)  
 - Extending to multi-user load balancing using MARL  
 
 **Focus:** Wireless Networks, Reinforcement Learning, QoS Optimization  
@@ -41,68 +41,91 @@ Fun Fact: I love Competitive Programming 😂
 ## 🧰 Technical Skills
 
 ### Programming
-Python (Beginner–Intermediate), Basic C++
+Python (Intermediate), Basic C++
 
 ### Machine Learning
 Regression Models, Isolation Forest (Anomaly Detection)
 
+### Deep Learning (Learning)
+PyTorch, TensorFlow (Fundamentals, model building)
+
+### LLM & Prompt Engineering
+Prompt Design, Structured Prompting, System Prompting  
+Basic understanding of LLM workflows and fine-tuning concepts  
+
 ### Backend
 FastAPI, REST APIs, JSON-based communication  
 
-### IoT & Hardware
-Arduino Uno, ESP-01, Sensor Integration (Temperature, Vibration, Sound, Humidity)
+### Databases
+MySQL, PostgreSQL (Learning)
+
+### IoT & Hardware (Basic / Learning)
+Arduino, ESP8266/ESP-01, Sensor Integration  
+
+### Frontend (Learning)
+React (Basics)
 
 ### Core CS
-Arrays, Strings, Two Pointers, Sliding Window, Stack, Binary Search  
+Arrays, Strings, Sliding Window, Stack, Binary Search  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,fastapi,mysql,postman,arduino" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,fastapi,mysql,postgres,postman,arduino,react,docker,linux" />
 <br/>
-<sub>Pandas · NumPy · Matplotlib · Seaborn · Plotly</sub>
+<sub>Pandas · NumPy · Matplotlib · Plotly · scikit-learn</sub>
 
 ---
 
 ## 🚀 Currently Learning
 
-- Deep Learning (PyTorch, TensorFlow) — time-series & anomaly detection  
-- Cloud & Deployment (AWS, Docker) — scalable ML systems  
-- Computer Vision (OpenCV) — real-world sensor integration  
-- Systems & OS (Linux) — backend optimization  
+- Deep Learning for time-series (LSTM, Autoencoders)  
+- LLM fine-tuning and applied AI systems  
+- Cloud & Deployment (AWS, Docker)  
+- React for full-stack integration  
+- System Design fundamentals  
 
 ---
 
 ## 🔁 End-to-End Systems Built
 
-- IoT Device → API → ML Model → Dashboard (Safety Sense)  
-- Backend API → Data Processing → Intelligent Response System  
-- Currently building: Student Intelligence Portal (Full-stack + ML)  
+- IoT → Backend API → ML Model → Dashboard (Safety Sense)  
+- Backend API → Processing → Intelligent Output System  
+- Currently building full-stack DBMS system  
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Projects
 
-### 🏭 SAFETY SENSE — Intelligent Predictive Maintenance System
+### 🏭 SAFETY SENSE — Machinery Health Monitoring System
 
-- Built real-time IoT system using ESP8266 to stream sensor data  
-- Designed anomaly detection pipeline using Isolation Forest  
-- Developed FastAPI backend for live data ingestion and prediction  
-- Visualized system health using real-time dashboard  
-- Focused on early anomaly detection and system reliability  
+- Built real-time monitoring system using sensors + ESP  
+- Designed anomaly detection using Isolation Forest  
+- Developed FastAPI backend for live prediction  
+- Focused on early fault detection and system reliability  
 
-**Tech:** Python, FastAPI, ESP8266, scikit-learn, REST APIs  
+**Tech:** Python, FastAPI, IoT, scikit-learn  
 
 ---
 
-### ⚙️ End-to-End Backend System
+### 🎓 University Management System (DBMS)
 
-- Built REST API using FastAPI for structured data processing  
-- Designed request handling, routing, and response pipelines  
-- Integrated backend with ML logic for intelligent outputs  
+- Designed relational database system for managing university operations  
+- Implemented structured data handling and queries  
+- Focus on scalability and efficient data retrieval  
 
-**Tech:** FastAPI, Python, JSON APIs  
+**Tech:** SQL, Backend Integration (ongoing)
+
+---
+
+## 🏆 Hackathon Projects
+
+### 💊 CuraTrack
+- Healthcare-focused tracking/monitoring solution (add 1-line detail if possible)
+
+### 🏠 Roomify
+- Room/space optimization or management system (add 1-line detail)
 
 ---
 
@@ -110,8 +133,8 @@ Arrays, Strings, Two Pointers, Sliding Window, Stack, Binary Search
 
 - Build scalable ML pipelines with real-time inference  
 - Implement LSTM Autoencoder for anomaly detection  
-- Design distributed IoT systems  
-- Strengthen system design fundamentals  
+- Learn production-level backend architecture  
+- Improve problem-solving (DSA + CP)  
 
 ---
 
@@ -132,37 +155,3 @@ sakthimaran7102006@gmail.com
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
----
-
-## 🚀 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,linux,opencv,docker,postgres,raspberrypi" />
-
----
-
-## 📌 Highlight Projects
-
-### 🏭 SAFETY SENSE
-Low-cost IoT-based predictive maintenance system using real-time sensor data and Isolation Forest for anomaly detection.
-
-### ⚙️ End-to-End Backend Project
-Built a backend API using FastAPI to process structured inputs and return intelligent outputs. Focused on understanding request flow, routing, and model integration.
-
----
-
-## 📈 Learning Goals
-
-- Improve problem-solving skills (DSA & algorithms)  
-- Explore time-series modeling (LSTM Autoencoders)  
-- Learn scalable backend architecture  
-- Strengthen system design fundamentals  
-
----
-
-## 📫 Connect With Me
-
-LinkedIn:  
-https://www.linkedin.com/in/sakthimaran-m/
-
-Email:  
-sakthimaran7102006@gmail.com
