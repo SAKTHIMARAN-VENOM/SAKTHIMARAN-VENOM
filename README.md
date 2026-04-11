@@ -1,38 +1,58 @@
-# Hi 👋 I'm Sakthimaran M
+## 🧰 Technical Skills
 
-Building intelligent systems at the intersection of ML, Backend Engineering, and real-world systems.
-
-Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
-
-Fun Fact: I love Competitive Programming 😂
-
----
-
-## 🚀 Currently Working On
-
-- 🏭 SAFETY SENSE — Machinery Health Monitoring System (IoT + ML)
-- 🎓 University Management System (DBMS Project)
-- 📊 Strengthening Data Structures & Algorithms (DSA + CP)
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=python" />
+<br/>
+<sub>NumPy · Pandas · Matplotlib · scikit-learn</sub>
 
 ---
 
-## 🧠 System Design & Architecture
-
-- Designed real-time pipelines: Sensor/Data → API → ML Model → Dashboard  
-- Understanding of end-to-end system flow and backend integration  
-- Experience building REST APIs using FastAPI  
-- Exploring scalable backend systems and async processing  
+### 🤖 Deep Learning (Learning)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<br/>
+<sub>Time-series models · LSTM · Autoencoders</sub>
 
 ---
 
-## 📄 Research Work
+### 🧩 LLM & Prompt Engineering
+<sub>
+Prompt Design · Structured Prompting · System Prompts ·  
+LLM workflows · Fine-tuning (learning)
+</sub>
 
-### 📡 Hybrid LiFi–WiFi Intelligent Network Optimization
+---
 
-- Intelligent handover using Q-learning  
-- QoS-aware optimization (latency, delay, throughput)  
-- Hybrid decision system (RL + heuristic for delay-sensitive users)  
-- Extending to multi-user load balancing using MARL  
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<br/>
+<sub>REST APIs · JSON communication</sub>
+
+---
+
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+---
+
+### ☁️ DevOps & Cloud (Learning)
+<img src="https://skillicons.dev/icons?i=docker,aws,linux" />
+
+---
+
+### 🌐 Frontend (Basic)
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+---
+
+### 🔌 IoT & Hardware (Basic)
+<sub>Arduino · ESP8266 · Sensor Integration</sub>
+
+---
+
+### 💻 Core CS
+<sub>
+Arrays · Strings · Sliding Window · Stack · Binary Search
+</sub>
 
 **Focus:** Wireless Networks, Reinforcement Learning, QoS Optimization  
 
