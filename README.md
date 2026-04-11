@@ -4,7 +4,7 @@ Building intelligent systems at the intersection of ML, Backend Engineering, and
 
 Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
 
-Fun Fact: I love Competitive Programming 😂
+Fun Fact: I love "CP", Competitive Programming 😂
 
 ---
 
