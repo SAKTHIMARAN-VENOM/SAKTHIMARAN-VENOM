@@ -1,58 +1,38 @@
-## 🧰 Technical Skills
+# Hi 👋 I'm Sakthimaran M
 
-### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=python" />
-<br/>
-<sub>NumPy · Pandas · Matplotlib · scikit-learn</sub>
+Building intelligent systems at the intersection of ML, Backend Engineering, and real-world systems.
 
----
+Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
 
-### 🤖 Deep Learning (Learning)
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
-<sub>Time-series models · LSTM · Autoencoders</sub>
+Fun Fact: I love Competitive Programming 😂
 
 ---
 
-### 🧩 LLM & Prompt Engineering
-<sub>
-Prompt Design · Structured Prompting · System Prompts ·  
-LLM workflows · Fine-tuning (learning)
-</sub>
+## 🚀 Currently Working On
+
+- 🏭 SAFETY SENSE — Machinery Health Monitoring System (IoT + ML)
+- 🎓 University Management System (DBMS Project)
+- 📊 Strengthening Data Structures & Algorithms (DSA + CP)
 
 ---
 
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<br/>
-<sub>REST APIs · JSON communication</sub>
+## 🧠 System Design & Architecture
+
+- Designed real-time pipelines: Sensor/Data → API → ML Model → Dashboard  
+- Understanding end-to-end system flow and backend integration  
+- Experience building REST APIs using FastAPI  
+- Exploring scalable backend systems and async processing  
 
 ---
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+## 📄 Research Work
 
----
+### 📡 Hybrid LiFi–WiFi Intelligent Network Optimization
 
-### ☁️ DevOps & Cloud (Learning)
-<img src="https://skillicons.dev/icons?i=docker,aws,linux" />
-
----
-
-### 🌐 Frontend (Basic)
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
----
-
-### 🔌 IoT & Hardware (Basic)
-<sub>Arduino · ESP8266 · Sensor Integration</sub>
-
----
-
-### 💻 Core CS
-<sub>
-Arrays · Strings · Sliding Window · Stack · Binary Search
-</sub>
+- Intelligent handover using Q-learning  
+- QoS-aware optimization (latency, delay, throughput)  
+- Hybrid decision system (RL + heuristic for delay-sensitive users)  
+- Extending to multi-user load balancing using MARL  
 
 **Focus:** Wireless Networks, Reinforcement Learning, QoS Optimization  
 
@@ -60,51 +40,73 @@ Arrays · Strings · Sliding Window · Stack · Binary Search
 
 ## 🧰 Technical Skills
 
-### Programming
-Python (Intermediate), Basic C++
-
-### Machine Learning
-Regression Models, Isolation Forest (Anomaly Detection)
-
-### Deep Learning (Learning)
-PyTorch, TensorFlow (Fundamentals, model building)
-
-### LLM & Prompt Engineering
-Prompt Design, Structured Prompting, System Prompting  
-Basic understanding of LLM workflows and fine-tuning concepts  
-
-### Backend
-FastAPI, REST APIs, JSON-based communication  
-
-### Databases
-MySQL, PostgreSQL (Learning)
-
-### IoT & Hardware (Basic / Learning)
-Arduino, ESP8266/ESP-01, Sensor Integration  
-
-### Frontend (Learning)
-React (Basics)
-
-### Core CS
-Arrays, Strings, Sliding Window, Stack, Binary Search  
+### 🧠 AI / ML
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Data-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-grey)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 
 ---
 
-## ⚙️ Tech Stack
+### 🤖 Deep Learning (Learning)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-orange)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,fastapi,mysql,postgres,postman,arduino,react,docker,linux" />
-<br/>
-<sub>Pandas · NumPy · Matplotlib · Plotly · scikit-learn</sub>
+---
+
+### 🧩 LLM & Prompt Engineering
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blue)
+![LLM](https://img.shields.io/badge/LLM-Workflows-green)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-Learning-orange)
+
+---
+
+### ⚙️ Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![REST API](https://img.shields.io/badge/REST-API-orange)
+
+---
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-lightblue)
+
+---
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
+---
+
+### 🌐 Frontend (Basic)
+![React](https://img.shields.io/badge/React-Basic-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-teal)
+
+---
+
+### 🔌 IoT & Hardware (Basic)
+![Arduino](https://img.shields.io/badge/Arduino-IoT-green)
+![ESP8266](https://img.shields.io/badge/ESP8266-IoT-lightgrey)
+
+---
+
+### 💻 Core CS
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue)
+![Algorithms](https://img.shields.io/badge/Algorithms-Core-orange)
 
 ---
 
 ## 🚀 Currently Learning
 
-- Deep Learning for time-series (LSTM, Autoencoders)  
-- LLM fine-tuning and applied AI systems  
-- Cloud & Deployment (AWS, Docker)  
-- React for full-stack integration  
-- System Design fundamentals  
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,react,linux,opencv,postgres" />
+<br/>
+
+- Deep Learning (LSTM, Autoencoders for time-series)  
+- LLM fine-tuning & applied AI systems  
+- Scalable backend & cloud deployment  
+- Frontend integration using React  
 
 ---
 
@@ -132,8 +134,8 @@ Arrays, Strings, Sliding Window, Stack, Binary Search
 ### 🎓 University Management System (DBMS)
 
 - Designed relational database system for managing university operations  
-- Implemented structured data handling and queries  
-- Focus on scalability and efficient data retrieval  
+- Implementing structured data handling and queries  
+- Focused on scalability and efficient data retrieval  
 
 **Tech:** SQL, Backend Integration (ongoing)
 
@@ -142,10 +144,10 @@ Arrays, Strings, Sliding Window, Stack, Binary Search
 ## 🏆 Hackathon Projects
 
 ### 💊 CuraTrack
-- Healthcare-focused tracking/monitoring solution (add 1-line detail if possible)
+- Healthcare-focused tracking and monitoring solution  
 
 ### 🏠 Roomify
-- Room/space optimization or management system (add 1-line detail)
+- Room/space management and optimization system  
 
 ---
 
@@ -170,8 +172,4 @@ sakthimaran7102006@gmail.com
 
 ## 🟡 Pacman Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+![pacman graph](https://github.com/abozanona/pacman-contribution-graph/raw/master/dist/pacman.svg)
