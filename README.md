@@ -6,7 +6,7 @@ Computer Science undergraduate building practical systems at the intersection of
 
 I enjoy taking ideas from **data → backend → intelligence → deployment** and turning them into working end-to-end systems.
 
-> 💡 Fun fact: I love **Competitive Programming (CP)** 😂
+> 💡 Fun fact: I love CP **Competitive Programming** 😂
 
 ---
 
@@ -324,29 +324,6 @@ Learn from real-world codebases, contribute meaningful bug fixes/features/tests,
 
 ---
 
-# 🎯 Career Goals
-
-I'm working toward becoming an **AI/ML Engineer with strong Backend Engineering skills**.
-
-### Long-term focus
-
-```text
-Machine Learning
-       +
-Deep Learning
-       +
-LLMs / Applied AI
-       +
-Backend Engineering
-       +
-Cloud / MLOps
-       ↓
-Production AI Systems
-```
-
-I want to build systems that don't just demonstrate a model, but actually take an idea through **data, APIs, infrastructure, intelligence, and deployment**.
-
----
 
 # 📈 What I'm Working Toward
 
