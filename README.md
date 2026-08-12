@@ -1,187 +1,379 @@
-# Hi 👋 I'm Sakthimaran M
+# 👋 Hi, I'm Sakthimaran M
 
-Building intelligent systems at the intersection of ML, Backend Engineering, and real-world systems.
+### AI/ML • Backend Engineering • Intelligent Systems
 
-Computer Science undergraduate passionate about solving practical problems end-to-end — from data collection to deployment.
+Computer Science undergraduate building practical systems at the intersection of **Machine Learning, Backend Engineering, and AI**.
 
-Fun Fact: I love "CP", Competitive Programming 😂
+I enjoy taking ideas from **data → backend → intelligence → deployment** and turning them into working end-to-end systems.
+
+> 💡 Fun fact: I love **Competitive Programming (CP)** 😂
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🏭 SAFETY SENSE — Machinery Health Monitoring System (IoT + ML)
-- 🎓 University Management System (DBMS Project)
-- 📊 Strengthening Data Structures & Algorithms (DSA + CP)
+* 🏭 **Safety Sense** — Machinery Health Monitoring System
+* 🎓 **University Management System** — Database & Backend Project
+* 💰 **FinBud** — AI-powered personal finance platform
+* 🧠 Strengthening **Data Structures & Algorithms**
+* ⚙️ Deepening **Backend Engineering with Django & FastAPI**
+* 🤖 Learning **Deep Learning, LLMs, and Applied AI**
 
 ---
 
-## 🧠 System Design & Architecture
+## 🧠 What I Focus On
 
-- Designed real-time pipelines: Sensor/Data → API → ML Model → Dashboard  
-- Understanding end-to-end system flow and backend integration  
-- Experience building REST APIs using FastAPI  
-- Exploring scalable backend systems and async processing  
+```text
+AI / ML
+   ↓
+Data Processing
+   ↓
+Backend APIs
+   ↓
+ML / AI Inference
+   ↓
+Database
+   ↓
+Frontend / Dashboard
+   ↓
+Deployment
+```
+
+I enjoy understanding how individual components connect together to build complete systems.
+
+### Areas I'm Interested In
+
+* Machine Learning & Applied AI
+* Backend Engineering
+* REST API Development
+* AI-powered Applications
+* Database-driven Systems
+* ML Model Deployment
+* Scalable Backend Architecture
+* End-to-End System Development
 
 ---
 
-## 📄 Research Work
-
-### 📡 Hybrid LiFi–WiFi Intelligent Network Optimization
-
-- Intelligent handover using Q-learning  
-- QoS-aware optimization (latency, delay, throughput)  
-- Hybrid decision system (RL + heuristic for delay-sensitive users)  
-- Extending to multi-user load balancing using MARL  
-
-**Focus:** Wireless Networks, Reinforcement Learning, QoS Optimization  
-
----
-
-## 💼 Technical Skills
-
----
+## 🛠️ Technical Skills
 
 ### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Data-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data-purple)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-grey)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+</p>
+
+**Python • NumPy • Pandas • Matplotlib • Scikit-Learn**
 
 ---
 
-### 🤖 Deep Learning (Learning)
-![PyTorch](https://img.shields.io/badge/PyTorch-Learning-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-orange)
+### 🤖 Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" />
+</p>
+
+**PyTorch • TensorFlow**
+
+> Currently learning Deep Learning and neural network architectures.
 
 ---
 
 ### 🧩 LLM & Prompt Engineering
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blue)
-![LLM Workflows](https://img.shields.io/badge/LLM-Workflows-green)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-Learning-orange)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+</p>
+
+**Prompt Engineering • LLM Workflows • Fine-Tuning**
 
 ---
 
 ### ⚙️ Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![REST API](https://img.shields.io/badge/REST-API-orange)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django" height="45" />
+</p>
+
+**FastAPI • REST APIs**
 
 ---
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-lightblue)
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" />
+</p>
+
+**MySQL • PostgreSQL**
 
 ---
 
 ### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" height="45" />
+</p>
+
+**Docker • AWS**
 
 ---
 
-### 🌐 Frontend (Basic)
-![React](https://img.shields.io/badge/React-Basic-blue)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-teal)
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" height="45" />
+</p>
+
+**React • Tailwind CSS**
+
+> Basic frontend development with a focus on backend integration.
 
 ---
 
-### 🔌 IoT & Hardware (Basic)
-![Arduino](https://img.shields.io/badge/Arduino-IoT-green)
-![ESP8266](https://img.shields.io/badge/ESP8266-IoT-lightgrey)
+### 🔌 IoT & Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" />
+</p>
+
+**Arduino • ESP8266**
 
 ---
 
 ### 💻 Core CS
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue)
-![Algorithms](https://img.shields.io/badge/Algorithms-Core-orange)
+
+**Data Structures • Algorithms • Competitive Programming**
 
 ---
 
-## 🚀 Currently Learning
+## 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,react,linux,opencv,postgres" />
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,react,linux,opencv,postgres" />
+</p>
 
-- Deep Learning (LSTM, Autoencoders for time-series)  
-- LLM fine-tuning & applied AI systems  
-- Scalable backend & cloud deployment  
-- Frontend integration using React  
-
----
-
-## 🔁 End-to-End Systems Built
-
-- IoT → Backend API → ML Model → Dashboard (Safety Sense)  
-- Backend API → Processing → Intelligent Output System  
-- Currently building full-stack DBMS system  
+* 🧠 Deep Learning — LSTM, Autoencoders & Time-Series
+* 🤖 LLM Applications & Fine-Tuning
+* ⚙️ Production Backend Architecture
+* 🚀 Scalable APIs & Cloud Deployment
+* 🗄️ Database Design & Optimization
+* 🌐 Frontend Integration with React
+* 🧪 Testing & Software Engineering Practices
+* 🐙 Open Source Contribution
 
 ---
 
-## 📌 Projects
+## 🔁 End-to-End Systems
 
-### 🏭 SAFETY SENSE — Machinery Health Monitoring System
+I enjoy building systems where different technologies work together:
 
-- Built real-time monitoring system using sensors + ESP  
-- Designed anomaly detection using Isolation Forest  
-- Developed FastAPI backend for live prediction  
-- Focused on early fault detection and system reliability  
+```text
+Sensors
+   ↓
+Backend API
+   ↓
+Data Processing
+   ↓
+ML Model
+   ↓
+Prediction
+   ↓
+Dashboard
+```
 
-**Tech:** Python, FastAPI, IoT, scikit-learn  
+and:
 
----
-
-### 🎓 University Management System (DBMS)
-
-- Designed relational database system for managing university operations  
-- Implementing structured data handling and queries  
-- Focused on scalability and efficient data retrieval  
-
-**Tech:** SQL, Backend Integration (ongoing)
-
----
-
-## 🏆 Hackathon Projects
-
-### 🏠 Roomify
-
-AI-powered interior design platform that transforms room images into redesigned spaces using computer vision and generative models.  
-It integrates YOLO-based object detection, SAM segmentation, and Stable Diffusion for realistic interior visualization.  
-Includes an AI-assisted 2D floor planner with manual editing and text-to-layout generation using a local LLM.  
-Built with React, FastAPI, and Ollama using a hybrid architecture (cloud AI + local control).
-
----
-
-### 💊 CuraTrack
-
-Full-stack AI-powered healthcare ecosystem connecting patients, caregivers, hospitals, and doctors.  
-Enables smart prescription parsing, real-time medication reminders, and caregiver monitoring.  
-Improves hospital workflows, queue management, and simplifies insurance processes.  
-Built with a privacy-first approach aligned with India’s Digital Personal Data Protection Act.
+```text
+User
+   ↓
+Frontend
+   ↓
+Backend API
+   ↓
+Database
+   ↓
+AI / ML Processing
+   ↓
+Intelligent Output
+```
 
 ---
 
-## 🔮 Next Goals
+# 🚀 Projects
 
-- Build scalable ML pipelines with real-time inference  
-- Implement LSTM Autoencoder for anomaly detection  
-- Learn production-level backend architecture  
-- Improve problem-solving (DSA + CP)  
+## 🏭 Safety Sense — Machinery Health Monitoring System
+
+A machinery health monitoring system combining **IoT, backend APIs, and machine learning** for early anomaly detection.
+
+### What I built
+
+* Real-time sensor-based monitoring
+* Machine health data processing
+* Anomaly detection using **Isolation Forest**
+* FastAPI backend for ML inference
+* Dashboard-oriented system architecture
+* End-to-end IoT → API → ML pipeline
+
+**Tech:** Python • FastAPI • Scikit-Learn • IoT • ESP8266
+
+---
+
+## 🏠 Roomify — AI Interior Design Platform
+
+An AI-powered interior design platform that transforms room images into redesigned spaces using computer vision and generative AI.
+
+### Features
+
+* YOLO-based object detection
+* SAM-based image segmentation
+* Stable Diffusion for interior visualization
+* AI-assisted 2D floor planner
+* Manual floor-plan editing
+* Text-to-layout generation using a local LLM
+* Hybrid AI architecture combining cloud and local AI
+
+**Tech:** React • FastAPI • YOLO • SAM • Stable Diffusion • Ollama
+
+---
+
+## 💊 CuraTrack V2 — AI Healthcare Ecosystem
+
+A full-stack healthcare ecosystem designed to connect **patients, caregivers, hospitals, and doctors**.
+
+### Features
+
+* Smart prescription parsing
+* OCR-based health record processing
+* Medication reminders
+* Caregiver monitoring
+* Hospital queue management
+* Healthcare workflow management
+* Insurance-related assistance
+* AI-powered features
+* Privacy-focused architecture
+
+**Tech:** Next.js • React • FastAPI • Supabase • OCR • Ollama • FHIR
+
+---
+
+## 💰 FinBud — AI Personal Finance Platform
+
+An AI-powered personal finance platform designed to help users understand their finances and make more informed decisions.
+
+### Features
+
+* Personal finance dashboard
+* Financial goal planning
+* AI-powered insurance analysis
+* Government scheme recommendations
+* Market news AI insights
+* Investor-profile-based recommendations
+* Risk analysis and key financial insights
+* AI-assisted financial information processing
+
+### Architecture
+
+```text
+Next.js Frontend
+       ↓
+FastAPI Backend
+       ↓
+Supabase Auth / PostgreSQL
+       ↓
+AI Processing
+       ↓
+Groq LLM
+```
+
+**Tech:** Next.js • FastAPI • Supabase • PostgreSQL • Groq • LLMs
+
+---
+
+## 🎓 University Management System
+
+A database-driven university management system focused on structured academic and administrative data.
+
+### Focus
+
+* Relational database design
+* SQL queries
+* Data relationships
+* Backend integration
+* Efficient data retrieval
+* Scalable database structure
+
+**Tech:** PostgreSQL • SQL • Backend Integration
+
+---
+
+# 🐙 Open Source
+
+Currently exploring and contributing to open-source projects focused on:
+
+* Python
+* Backend Engineering
+* FastAPI
+* Django
+* AI/ML
+* Testing
+* Developer Tools
+
+### Goal
+
+Learn from real-world codebases, contribute meaningful bug fixes/features/tests, and understand how production software is designed and maintained.
+
+---
+
+# 🎯 Career Goals
+
+I'm working toward becoming an **AI/ML Engineer with strong Backend Engineering skills**.
+
+### Long-term focus
+
+```text
+Machine Learning
+       +
+Deep Learning
+       +
+LLMs / Applied AI
+       +
+Backend Engineering
+       +
+Cloud / MLOps
+       ↓
+Production AI Systems
+```
+
+I want to build systems that don't just demonstrate a model, but actually take an idea through **data, APIs, infrastructure, intelligence, and deployment**.
+
+---
+
+# 📈 What I'm Working Toward
+
+* Build production-quality AI/ML systems
+* Become strong in backend engineering
+* Contribute consistently to open source
+* Strengthen DSA & Competitive Programming
+* Learn scalable system architecture
+* Deploy ML/AI systems to the cloud
+* Work on real-world AI engineering problems
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:  
-https://www.linkedin.com/in/sakthimaran-m/
+<p align="left">
+  <a href="https://www.linkedin.com/in/sakthimaran-m/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakthimaran%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-Email:  
-sakthimaran7102006@gmail.com  
+<p align="left">
+  📧 <a href="mailto:sakthimaran7102006@gmail.com">sakthimaran7102006@gmail.com</a>
+</p>
 
 ---
 
-## 🟡 Contribution Graph
-
-![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <i>Building. Learning. Contributing. Repeating.</i>
+</p>
