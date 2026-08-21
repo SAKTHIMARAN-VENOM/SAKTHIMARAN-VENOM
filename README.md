@@ -354,3 +354,12 @@ Learn from real-world codebases, contribute meaningful bug fixes/features/tests,
 <p align="center">
   <i>Building. Learning. Contributing. Repeating.</i>
 </p>
+<a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
+  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM" width="694" alt="LeetCode Heatmap Grid"/>
+</a>
+<a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
+  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/stats" width="380" alt="LeetCode Streak & Active Days"/>
+</a>
+<a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
+  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/problems" width="380" alt="LeetCode Solved Problems"/>
+</a>
