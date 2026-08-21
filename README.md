@@ -355,7 +355,7 @@ Learn from real-world codebases, contribute meaningful bug fixes/features/tests,
   <i>Building. Learning. Contributing. Repeating.</i>
 </p>
 <a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
-  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM" width="694" alt="LeetCode Heatmap Grid"/>
+  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM" width="1000" alt="LeetCode Heatmap Grid"/>
 </a>
 <br></br>
 <a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
