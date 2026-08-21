@@ -360,8 +360,8 @@ Learn from real-world codebases, contribute meaningful bug fixes/features/tests,
 <br></br>
 <a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
   <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/stats" width="380" alt="LeetCode Streak & Active Days"/>
-</a>
-<br></br>
+</a> 
+ 
 <a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
   <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/problems" width="380" alt="LeetCode Solved Problems"/>
 </a>
