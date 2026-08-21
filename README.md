@@ -359,9 +359,9 @@ Learn from real-world codebases, contribute meaningful bug fixes/features/tests,
 </a>
 <br></br>
 <a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
-  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/stats" width="380" alt="LeetCode Streak & Active Days"/>
+  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/stats" width="500" alt="LeetCode Streak & Active Days"/>
 </a> 
  
 <a href="https://leetcode.com/SAKTHIMARAN-VENOM" target="_blank">
-  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/problems" width="380" alt="LeetCode Solved Problems"/>
+  <img src="https://leetcode-calander-svg.vercel.app/SAKTHIMARAN-VENOM/problems" width="500" alt="LeetCode Solved Problems"/>
 </a>
